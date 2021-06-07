@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "devStart": "nodemon server.js",
-    "start": "./models/shortUrl.js"
-  },
+    "devStart": "nodemon server.js"
+     },
   "author": "Gaurav_Jha",
   "license": "ISC",
   "dependencies": {
